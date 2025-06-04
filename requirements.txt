@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchainhub
+chromadb
+ollama
+fpdf
+speechrecognition
+pyttsx3
+pandas

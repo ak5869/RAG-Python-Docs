@@ -53,3 +53,12 @@ An AI-powered assistant that answers your questions about Python documentation i
    ```bash
    streamlit run app.py
    ```
+## Prerequisites
+
+- **Ollama** must be installed and running locally on your machine.
+- You can download and install Ollama from: [https://ollama.com](https://ollama.com)
+- Make sure the Ollama daemon is running before starting the app:
+  
+  ```bash
+  ollama serve
+  ```

@@ -41,14 +41,14 @@ An AI-powered assistant that answers your questions about Python documentation i
    cd RAG-Python-Docs
    ```
 2. Create a virtual environment:
-  ```bash
-  python -m venv rag_env
-  source rag_env/bin/activate  # on Windows: rag_env\Scripts\activate
-  ```
+   ```bash
+   python -m venv rag_env
+   source rag_env/bin/activate  # on Windows: rag_env\Scripts\activate
+   ```
 3. Install requirements:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 4. Run the app:
    ```bash
    streamlit run app.py

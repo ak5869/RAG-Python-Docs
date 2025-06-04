@@ -34,7 +34,7 @@ An AI-powered assistant that answers your questions about Python documentation i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rag-python-docs-assistant.git
+   git clone https://github.com/your-username/RAG-Python-Docs.git
    cd RAG-Python-Docs
    ```
 2. Create a virtual environment:

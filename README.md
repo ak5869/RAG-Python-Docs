@@ -4,6 +4,9 @@ An AI-powered assistant that answers your questions about Python documentation i
 
 ![Screenshot](https://github.com/user-attachments/assets/a1e9eac8-8f99-4e18-8fa3-77838f989e86)
 
+![Screenshot](https://github.com/user-attachments/assets/d817a44d-1321-41a3-861d-cf0a365d64fd)
+
+
 ---
 
 ##  Features

@@ -19,7 +19,7 @@ An AI-powered assistant that answers your questions about Python documentation i
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - **Frontend:** Streamlit
 - **Backend:** LangChain, Python

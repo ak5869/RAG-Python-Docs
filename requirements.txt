@@ -1,6 +1,6 @@
 streamlit
-langchain
-langchain-community
+langchain==0.1.20
+langchain-community==0.0.38
 langchain-chroma
 langchain-huggingface
 langchainhub
@@ -10,4 +10,6 @@ fpdf
 speechrecognition
 pyttsx3
 pandas
+sentence-transformers
+
 
